@@ -12,6 +12,6 @@ factoriel <- function(s) {
   return(facto)
 }
 
-p =factoriel(1005)
+p =factoriel(15)
 
 
